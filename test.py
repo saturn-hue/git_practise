@@ -1,3 +1,4 @@
-tesco_items = ['Mango', 'Orange']
+tesco_items = ['Mango', 'Orange', 'lemon']
 
-print(tesco_items)gloglo
+john_store = ['Tables', 'Chairs']
+print(tesco_items)
